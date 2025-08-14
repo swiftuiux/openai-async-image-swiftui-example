@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftuiux/async-task.git",
       "state" : {
-        "revision" : "6c88c908c563dc5eff4a4301ba4fe787d8002375",
-        "version" : "1.2.8"
+        "branch" : "main",
+        "revision" : "fa9543e8765281c742052df9369877ddc59dc1f1"
       }
     },
     {
@@ -25,7 +25,7 @@
       "location" : "https://github.com/swiftuiux/openai-async-image-swiftui",
       "state" : {
         "branch" : "main",
-        "revision" : "1cd7b9d5081ed9c9496d544a3bbc08d57a6155e4"
+        "revision" : "a9140df61b51ebb2ed4d37ec550951273e425f0d"
       }
     },
     {
